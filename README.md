@@ -82,7 +82,7 @@ Future improvements may include feature engineering or exploring additional pred
 
 
 ## Contact
-https://github.com/NiroshkumarGN/Bike_sharing_assignment - niroshkumar1606@gmail.com
+https://github.com/Selvasankari8990/Bike_Sharing_Assignment
 
 
 
